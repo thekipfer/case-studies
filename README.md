@@ -100,6 +100,6 @@ Visit **[thekipfer.com](https://thekipfer.com)** to explore our work and approac
 
 *Each case study includes detailed architecture documentation, implementation decisions, and lessons learned from production deployments.*
 
-**⭐ Star this repository if you find these case studies valuable**
+** Star this repository if you find these case studies valuable**
 
 </div>
